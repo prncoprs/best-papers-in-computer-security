@@ -1,6 +1,6 @@
 # Best Papers from Top Computer Security Conferences
 
-This repo was inpired by the [Awesome Best Papers](https://github.com/familyld/Awesome-Best-Papers). However, the `Awesome Best Papers` does not include the computer security fields. So, I collect the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS.
+This repo is inpired by the [Awesome Best Papers](https://github.com/familyld/Awesome-Best-Papers). However, the `Awesome Best Papers` does not include the computer security fields. So, I collect the best papers from top 4 computer security conferences, including [IEEE S&P](#ieee-sp), [ACM CCS](#acm-ccs), [USENIX Security](#usenix-security), and [NDSS](#ndss).
 
 All the data are collected manully. If you find any errors, please feel free to contribute to this repo. Also, you are welcome to add papers from other computer security conferences.
 
@@ -10,7 +10,7 @@ All the data are collected manully. If you find any errors, please feel free to 
 
 ---------
 
-
+<a id="ieee-sp"></a>
 ## IEEE S&P
 ### Best Paper Awards
 | Year | Paper |
@@ -27,7 +27,7 @@ All the data are collected manully. If you find any errors, please feel free to 
 
 
 
-
+<a id="acm-ccs"></a>
 ## ACM CCS
 ### Best Paper Awards
 | Year | Paper |
@@ -44,7 +44,7 @@ All the data are collected manully. If you find any errors, please feel free to 
 
 
 
-
+<a id="usenix-security"></a>
 ## USENIX Security
 ### Best Paper Awards
 | Year | Paper |
@@ -62,7 +62,7 @@ All the data are collected manully. If you find any errors, please feel free to 
 
 
 
-
+<a id="ndss"></a>
 ## NDSS
 ### Distinguished Paper Award
 | Year | Paper |
