@@ -1,4 +1,4 @@
-# best-papers-in-computer-security
+# # Best Papers from Top Computer Security Conferences
 
 This repo is inpired by the [Awesome Best Papers](https://github.com/familyld/Awesome-Best-Papers). However, the `Awesome Best Papers` does not include the computer security fields. So, I collect the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS.
 
