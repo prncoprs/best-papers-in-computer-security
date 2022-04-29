@@ -5,8 +5,9 @@ This repo is inpired by the [Awesome Best Papers](https://github.com/familyld/Aw
 All the data are collected manully. If you find any errors, please feel free to contribute to this repo. Also, you are welcome to add papers from other computer security conferences.
 
 ### Future Work
-1. Add other awards, such as best student paper award, best practical award.
-2. Add best papers from other computer security conferences.
+1. Add link to each paper.
+2. Add other awards, such as best student paper award, best practical award.
+3. Add best papers from other computer security conferences.
 
 ---------
 
